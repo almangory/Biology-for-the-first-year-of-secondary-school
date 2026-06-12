@@ -1,0 +1,6 @@
+{
+  "name": "المعلم التعليمي - الأحياء",
+  "description": "منصة تعليمية تفاعلية شاملة لمادة الأحياء للمرحلة الثانوية، تحتوي على شروح مصورة وافية، وبنك أسئلة واختبارات تفاعلية، ومساعد ذكي مدعوم بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
